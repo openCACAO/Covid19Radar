@@ -70,6 +70,24 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
+        ///   A new version of the app is available. Please update to the latest version. に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string AppUtilsGetNewVersionDescription {
+            get {
+                return ResourceManager.GetString("AppUtilsGetNewVersionDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Update to latest version に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string AppUtilsGetNewVersionTitle {
+            get {
+                return ResourceManager.GetString("AppUtilsGetNewVersionTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Agree に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string ButtonAgree {
@@ -1069,6 +1087,24 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
+        ///   The contact record corresponding to the submission could not be confirmed. No need to submit. に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string NotifyOtherPageDialogExceptionTargetDiagKeyNotFound {
+            get {
+                return ResourceManager.GetString("NotifyOtherPageDialogExceptionTargetDiagKeyNotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   No applicable contact に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string NotifyOtherPageDialogExceptionTargetDiagKeyNotFoundTitle {
+            get {
+                return ResourceManager.GetString("NotifyOtherPageDialogExceptionTargetDiagKeyNotFoundTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Please try again later. に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string NotifyOtherPageDialogExceptionText {
@@ -1650,6 +1686,15 @@ namespace Covid19Radar.Resources {
         internal static string UrlTermOfUse {
             get {
                 return ResourceManager.GetString("UrlTermOfUse", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   https://covid19radarjpnprod.z11.web.core.windows.net/version.json に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string UrlVersion {
+            get {
+                return ResourceManager.GetString("UrlVersion", resourceCulture);
             }
         }
         
