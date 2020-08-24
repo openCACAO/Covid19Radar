@@ -1,3 +1,9 @@
+# CAUTION
+
+** こちらはCOCOAボランティアサポートがForkしたリポジトリです **
+
+本家は https://github.com/Covid-19Radar/Covid19Radar です。
+
 # COVID-19Radar (English)/([Japanese](README.ja.md))
 
 “There is only one version of contact confirming app in app stores - the official version by the Ministry of Health, Labor and Welfare. This GitHub contains code that became the base for the official app, but it is not the same as the code for the official app itself.
