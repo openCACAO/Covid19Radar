@@ -1,6 +1,6 @@
 # CAUTION
 
-** こちらはCOCOAボランティアサポートがForkしたリポジトリです **
+** こちらは有志のCOCOAボランティアサポートがForkしたリポジトリです **
 
 本家は https://github.com/Covid-19Radar/Covid19Radar です。
 
