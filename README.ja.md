@@ -1,3 +1,9 @@
+# CAUTION
+
+** こちらは有志のCOCOAボランティアサポートがForkしたリポジトリです **
+
+本家は https://github.com/Covid-19Radar/Covid19Radar です。
+
 # COVID-19Radar (Japanese)/([English](README.md))
 
 「接触確認アプリは、厚労省の公式バージョンの一つのみ存在します。  
